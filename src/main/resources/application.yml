@@ -1,0 +1,10 @@
+server:
+    port: 9191
+spring:
+    application:
+        name: ListGithubRepositories
+github:
+    api:
+        base:
+            url: https://api.github.com
+
