@@ -63,7 +63,7 @@ błędy:
 {
     "status": 400,
     "message": "Invalid Accept header"
-}
+},
 
 {
     "status": 404,
