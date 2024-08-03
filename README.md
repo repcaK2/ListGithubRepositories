@@ -11,8 +11,6 @@ API do zarządzania repozytoriami na GitHubie. Umożliwia wyświetlenie wszystki
 
 - Java 21
 - Spring Boot 3.3.2
-- Mockito
-- JUnit 5
 - Lombok
 
 ## Wymagania
