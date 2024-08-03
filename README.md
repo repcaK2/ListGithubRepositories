@@ -40,6 +40,10 @@ mvn clean install
 ## Uruchomienie aplikacji
 mvn spring-boot:run
 
+## Endpointy
+GET /repos
+Zwraca listę repozytoriów użytkownika, które nie są forkami.
+
 ## Przykładowe wywołania
 Aby pobrać listę repozytoriów dla użytkownika 'repcaK2', użyj:
 curl -X GET "http://localhost:8080/repos?username=repcaK2" -H "Accept: application/json"
