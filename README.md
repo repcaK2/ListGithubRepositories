@@ -47,12 +47,12 @@ curl -X GET "http://localhost:8080/repos?username=repcaK2" -H "Accept: applicati
 ## Przykładowe odpowiedzi
 sukces:
 [
-    {
-        "repositoryName": "LoftStore",
-        "ownerLogin": "repcaK2",
-        "branchName": "main",
-        "lastCommitSha": "0c5db626c39725ebed7d2693d358ca41dfa0e5d0"
-    }
+   {
+      "repositoryName": "test-repo",
+      "ownerLogin": "repcaK2",
+      "branchName": "main",
+      "lastCommitSha": "12345"
+   }
 ]
 błędy:
 {
