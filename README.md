@@ -58,6 +58,7 @@ sukces:
       "lastCommitSha": "12345"
    }
 ]
+
 błędy:
 {
     "status": 400,
